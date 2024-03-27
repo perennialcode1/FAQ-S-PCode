@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05bea0bf.css",
+    "main.js": "/static/js/main.c34dfec0.js",
+    "static/js/453.569db01c.chunk.js": "/static/js/453.569db01c.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/cropped-pc_logo-3.webp": "/static/media/cropped-pc_logo-3.692745b4532216f994b0.webp",
+    "index.html": "/index.html",
+    "main.05bea0bf.css.map": "/static/css/main.05bea0bf.css.map",
+    "main.c34dfec0.js.map": "/static/js/main.c34dfec0.js.map",
+    "453.569db01c.chunk.js.map": "/static/js/453.569db01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05bea0bf.css",
+    "static/js/main.c34dfec0.js"
+  ]
+}
